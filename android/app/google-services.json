@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "455470558438",
+    "project_id": "messenger-abdda",
+    "storage_bucket": "messenger-abdda.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:455470558438:android:c8d5fefaa4121707ed1f27",
+        "android_client_info": {
+          "package_name": "com.example.messenger"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "455470558438-n198dr5lvao2va0r3ajpeaaqjvvnsu9q.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAEpDx1aSaiLTRAI8fatrcRbpv8non4yoY"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "455470558438-n198dr5lvao2va0r3ajpeaaqjvvnsu9q.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
